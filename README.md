@@ -28,19 +28,17 @@ The core aim is to:
 Determine if we can predict the success of an offer using demographic and offer-specific data.
 - Develop a model that can forecast the success of offers using available demographic information and details about the offer.
 
-Additionally, it seeks to answer:
+Additionally, it seeks to answer:ss
 - Which type of offer has the most success?
 - Who is more likely to spend more, males or females?
 
 ## Structure of This Repository <a name="files"></a>
 
 This GitHub repository contains:
-- \data
-    - info_about_data.md : Information on the dataset used (details provided as the dataset is larger than 20Mb and not uploaded).
+s
 - Starbucks_Capstone_notebook.ipynb: The notebook for the project.
 - Starbucks_Capstone_notebook.html: A HTML version of the project notebook.
 - README.md : An overview of the project.
-- Blog.md : The blog post in markdown format.
 
 ## Principal Findings <a name="summary"></a>
 
